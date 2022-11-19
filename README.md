@@ -6,5 +6,7 @@ Prerequisites: Python3.
 To clone and run on your machine,open your terminal:
 
 git clone https://github.com/UceeeSan/Metric_Helper.git
+
 cd Metric-Helper
+
 python3 metric.py
